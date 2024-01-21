@@ -17,10 +17,11 @@ Include instructions on how to install and set up your project. Consider providi
 
 ```bash
 pip install your_project_name
-
+```
 ## Usage
 
 ```python
 from simulation import simulation
 sim = simulation()
 sim.game_loop()
+```
